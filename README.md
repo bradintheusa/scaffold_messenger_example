@@ -1,3 +1,3 @@
 # scaffold_messenger_example
 
-Example to use a scaffold without context.
+Example of how to use a scaffold without context.
