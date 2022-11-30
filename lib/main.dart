@@ -49,8 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // Find the ScaffoldMessenger in the widget tree
     // and use it to show a SnackBar.
     ScaffoldMessenger.of(context).showSnackBar(snackBar);
-
-    State<StatefulWidget>? s = widget.scaffoldKey.currentState;
+    // State<StatefulWidget>? s = widget.scaffoldKey.currentState;
 
     setState(() {
       _counter++;
